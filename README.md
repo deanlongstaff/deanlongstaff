@@ -27,6 +27,6 @@
 ![XCode](https://img.shields.io/badge/-XCode-000?&logo=XCode&logoColor=147EFB)
 
 ### Personal Links
-[![My Website](https://img.shields.io/badge/-My%20Personal%20Website-000?&logo=Internet-Explorer&logoColor=0078D4)](https://deanlongstaff.com {:target="_blank"})
-[![My Resume](https://img.shields.io/badge/-My%20Resume/CV-000?&logo=Leaflet&logoColor=199900)](https://cv.deanlongstaff.com {:target="_blank"})
-[![My Resume](https://img.shields.io/badge/-My%20Spotify-000?&logo=Spotify&logoColor=1DB954)](https://open.spotify.com/artist/2RSjVO85Cd5sXm0CSBGT57 {:target="_blank"})
+[![My Website](https://img.shields.io/badge/-My%20Personal%20Website-000?&logo=Internet-Explorer&logoColor=0078D4)](https://deanlongstaff.com)
+[![My Resume](https://img.shields.io/badge/-My%20Resume/CV-000?&logo=Leaflet&logoColor=199900)](https://cv.deanlongstaff.com)
+[![My Resume](https://img.shields.io/badge/-My%20Spotify-000?&logo=Spotify&logoColor=1DB954)](https://open.spotify.com/artist/2RSjVO85Cd5sXm0CSBGT57)
