@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/deanlongstaff/deanlongstaff/bartSimpson.gif)](https://deanlongstaff.com/)
+[![](https://raw.githubusercontent.com/deanlongstaff/deanlongstaff/main/bartSimpson.gif)](https://deanlongstaff.com/)
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
