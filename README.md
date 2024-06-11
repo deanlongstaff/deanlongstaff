@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/deanlongstaff/deanlongstaff/main/bartSimpson.gif)](https://deanlongstaff.com/)
+<img align="center" src="https://raw.githubusercontent.com/deanlongstaff/deanlongstaff/main/bartSimpson.gif" />
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -30,6 +30,4 @@
 [![Spotify](https://img.shields.io/badge/-My%20Spotify-000?&logo=Spotify&logoColor=1DB954)](https://open.spotify.com/artist/2RSjVO85Cd5sXm0CSBGT57)
 
 ### My GitHub Stats
-<a>
-  <img align="center" src="https://github-stats.deanlongstaff.com/api?username=deanlongstaff&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-</a>
+<img align="center" src="https://github-stats.deanlongstaff.com/api?username=deanlongstaff&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
