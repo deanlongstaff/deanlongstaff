@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/deanlongstaff/deanlongstaff/main/bartSimpson.gif" style="vertical-align: top;" />
-  <img src="https://github-stats.deanlongstaff.com/api?username=deanlongstaff&show_icons=true&theme=radical&count_private=true&include_all_commits=true" style="vertical-align: top;" />
-</div>
+<img src="https://raw.githubusercontent.com/deanlongstaff/deanlongstaff/main/bartSimpson.gif" style="vertical-align: top;" />
 
 ###  Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
