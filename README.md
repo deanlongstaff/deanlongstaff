@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/deanlongstaff/deanlongstaff/main/bartSimpson.gif" style="vertical-align: top;" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/deanlongstaff/deanlongstaff/main/bartSimpson.gif" style="vertical-align: top;" />
+  <img src="https://github-stats.deanlongstaff.com/api?username=deanlongstaff&show_icons=true&theme=radical&count_private=true&include_all_commits=true" style="vertical-align: top;" />
+</div>
 
 ###  Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
@@ -36,7 +39,8 @@
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](https://stripe.com/gb)
 
 ### Side Projects
-[![Sublime Text](https://img.shields.io/badge/SwitchHub-%23575757.svg?logo=session&logoColor=important)](https://switchhub.uk/)
+[![SwitchHub](https://img.shields.io/badge/SwitchHub-DF70BA?logo=warp&logoColor=fff)](https://switchhub.uk/)
+
 
 ### More About Me
 [![Perosnal Website](https://img.shields.io/badge/Personal%20Website-006CFF?logo=safari&logoColor=fff)](https://deanlongstaff.com)
