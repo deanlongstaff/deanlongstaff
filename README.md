@@ -36,9 +36,10 @@
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](https://stripe.com/gb)
 
 ### Side Projects
+[![Referral Roulette](https://img.shields.io/badge/Referral%20Roulette-5E57D5?logo=codacy&logoColor=fff)](https://referralroulette.app/)
 [![SwitchHub](https://img.shields.io/badge/SwitchHub-DF70BA?logo=warp&logoColor=fff)](https://switchhub.uk/)
 
-
-### More About Me
-[![Perosnal Website](https://img.shields.io/badge/Personal%20Website-006CFF?logo=safari&logoColor=fff)](https://deanlongstaff.com)
+### Personal Links
+[![Perosnal Website](https://img.shields.io/badge/My%20Personal%20Website-006CFF?logo=safari&logoColor=fff)](https://deanlongstaff.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dean-longstaff-934023126/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/deanlongstaff)
